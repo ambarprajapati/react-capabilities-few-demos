@@ -56,8 +56,9 @@
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
 </kbd>
 
-#### Demo-3: `Asynchronous thunks with API`: 
-#### Implement asynchronous API using `thunk` , `super-agent` , `Redux` and `React`. Implement dynamic routing, using `react-route`.
+### Demo-3:
+#### `Asynchronous thunks with REST API`: 
+#### Implement asynchronous REST API using `thunk` , `super-agent` , `Redux` and `React`. Implement dynamic routing, using `react-route`.
 
 > * Re-design view using Material UI
 > * Use redux for handling API-store
@@ -66,7 +67,7 @@
 
 <details>
 
-<summary> API for CRUD operations </summary>
+<summary> REST API for CRUD operations </summary>
 
 <br />
 
