@@ -40,7 +40,7 @@
 </kbd>
 
 ### Demo-2: 
-#### Redux: Re-write To-Do app using `Redux : Actions, Reducers, Components and Dispatchers`
+#### Redux: Implement `Redux : Actions, Reducers, Components and Dispatchers`
 
 > In this demo, we use the repository made in demo-one and modify the logic to use Redux - Actions, Reducers, Components and Dispatchers
 
@@ -59,7 +59,8 @@
 </kbd>
 
 #### Demo-3: `Asynchronous thunks with API`: 
-#### Re-write To-Do app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
+#### Implement asynchronous API using `thunk` , `super-agent` , `Redux` and `React`
+#### Implement dynamic routing, using react-route.
 
 > * Re-design view using Material UI
 > * Implement dynamic routing, using react-route.
