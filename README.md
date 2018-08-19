@@ -123,7 +123,7 @@
   <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo3.jpg" />
   
   
-### A quick note on using `redux-thunk`- over `redux-saga`
+### A quick note on using `redux-thunk` over `redux-saga`
 
 `redux-thunks` may be quickly implemented for async API server calls. They are intuitive and time tested. `redux-thunks` are flexible for all use-cases, supported in official docs and -one size fits all- kind of remedy.
 
