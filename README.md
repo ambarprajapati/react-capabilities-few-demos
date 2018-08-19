@@ -58,13 +58,15 @@
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
 </kbd>
 
-#### Demo-3: `Asynchronous thunks with API`: Re-write To-Do app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
+#### Demo-3: `Asynchronous thunks with API`: 
+#### Re-write To-Do app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
 
-> * Handle asynchronous logic. 
-> * Expand Single-View using react-route. 
+> * Re-design view using Material UI
+> * Expand Single-View using react-route.
+> * Handle asynchronous logic while accessing API over http 
 > * Use redux for handling API-store
 > * Implement all functionality and properties of a task namely :  `id`, `title`, `description`, `completed`.
-> * Perform CRUD operation over http on the API given below:
+> * Perform CRUD operation over http on the API given below
 
 <details>
 
