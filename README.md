@@ -2,7 +2,7 @@
 #### by Ambar Prajapati
 
 ### Demo-1:
-#### Build single view app containing nested react component hierarchy using state, props, javascript array methods, and conditional styles
+#### Build single view app containing `nested react component hierarchy` using state, props, javascript array methods, and conditional styles
 
 In this demo, we break down the process of building a to-do list. The to-do list is capable of creating, deleting, updating and completing tasks. 
 
