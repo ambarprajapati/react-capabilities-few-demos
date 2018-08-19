@@ -67,7 +67,7 @@
 
 <details>
 
-<summary> REST API for CRUD operations </summary>
+<summary> REST API for CRUD operations (click to expand)</summary>
 
 <br />
 
