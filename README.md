@@ -2,7 +2,7 @@
 #### by Ambar Prajapati
 
 ### Demo-1:
-### Build single view app containing nested react component hierarchy using state, props, javascript array methods, and conditional styles
+#### Build single view app containing nested react component hierarchy using state, props, javascript array methods, and conditional styles
 
 In this demo, we break down the process of building a to-do list. The to-do list is capable of creating, deleting, updating and completing tasks. 
 
@@ -38,7 +38,7 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 </kbd>
 
 ### Demo-2: 
-### Redux: Re-implement To-Do React app utilizing Redux : Actions, Reducers, Components and Dispatchers
+#### Redux: Re-implement To-Do React app utilizing Redux : Actions, Reducers, Components and Dispatchers
 
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
 
@@ -53,7 +53,7 @@ In this demo, we use the repository made in demo-one and modify the logic to use
 * Tasks in the to-do list are now tracked using redux.
 * The action creators with redux handle Create, Complete, and Delete tasks.
 
-### Demo-3: Asynchronous thunks with API: Re-implement To-Do React app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
+#### Demo-3: Asynchronous thunks with API: Re-implement To-Do React app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
 
 Perform CRUD operation over http on the API given below:
 
