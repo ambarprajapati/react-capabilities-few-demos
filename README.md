@@ -3,13 +3,14 @@
 
 ### Demo-1:
 #### Build single view app containing `nested react component hierarchy` using state, props, javascript array methods, and conditional styles
-<pre>
-In this demo, we create a single-view To-Do list app. The to-do list is capable of creating, deleting, updating and completing tasks. 
 
-A task is an object with these properties: `id`, `title`, `description`, and `completed`.
+> In this demo, we create a single-view To-Do list app. The to-do list is capable of creating, deleting, updating and completing tasks. 
+> 
+> A task is an object with these properties: `id`, `title`, `description`, and `completed`.
+> 
+> The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
 
-The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
-</pre>
+
 ### Functional Objectives:
 
 * A user must be able to create a task.
