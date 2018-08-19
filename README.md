@@ -60,13 +60,15 @@
 
 #### Demo-3: `Asynchronous thunks with API`: Re-write To-Do app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
 
-> Handle asynchronous logic. Expand Single-View using react-route. Use redux for handling API-store
-> In this demo- use all functionality and properties of a task namely :  `id`, `title`, `description`, `completed`.
-> Perform CRUD operation over http on the API given below:
+> * Handle asynchronous logic. 
+> * Expand Single-View using react-route. 
+> * Use redux for handling API-store
+> * Implement all functionality and properties of a task namely :  `id`, `title`, `description`, `completed`.
+> * Perform CRUD operation over http on the API given below:
 
 <details>
 
-<summary> ## API for CRUD operations </summary>
+<summary> API for CRUD operations </summary>
 
 <br />
 
