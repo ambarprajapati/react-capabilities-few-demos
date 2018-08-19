@@ -59,7 +59,7 @@
 </kbd>
 
 #### Demo-3: `Asynchronous thunks with API`: 
-#### Implement asynchronous API using `thunk` , `super-agent` , `Redux` and `React`. Implement dynamic routing, using react-route.
+#### Implement asynchronous API using `thunk` , `super-agent` , `Redux` and `React`. Implement dynamic routing, using `react-route`.
 
 > * Re-design view using Material UI
 > * Implement dynamic routing, using react-route.
