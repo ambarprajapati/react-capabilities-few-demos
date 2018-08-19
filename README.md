@@ -60,8 +60,6 @@
 #### Implement asynchronous API using `thunk` , `super-agent` , `Redux` and `React`. Implement dynamic routing, using `react-route`.
 
 > * Re-design view using Material UI
-> * Implement dynamic routing, using react-route.
-> * Handle asynchronous logic while accessing API over http 
 > * Use redux for handling API-store
 > * Implement all functionality and properties of a task namely :  `id`, `title`, `description`, `completed`.
 > * Perform CRUD operation over http on the API given below
