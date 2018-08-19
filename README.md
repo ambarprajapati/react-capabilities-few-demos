@@ -125,8 +125,8 @@
   
 ### A quick note on using `redux-thunk` over `redux-saga`
 
-`redux-thunks` may be quickly implemented for async API server calls. They are intuitive and time tested. `redux-thunks` are flexible for all use-cases, supported in official docs and -one size fits all- kind of remedy.
+`redux-thunks` may be quickly implemented for async API server calls. They are intuitive and time tested. `redux-thunks` are flexible for all use-cases, supported in official docs and _one size fits all_ kind of remedy.
 
-However excessive and un-mindful use of `redux-thunks` may quickly lead a solution into callback hell and render an application completely - unmanageable.
+However excessive and un-mindful use of `redux-thunks` may quickly lead a solution into *callback hell* and render an application completely - unmanageable.
 
 `redux-sagas` solve the -callback hell- problem of thunks. Sagas use declarative style and go beyond - components, reducers and actions. They make a complex async logic look simpler, more transactional  and make unit testing easy.
