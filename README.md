@@ -130,3 +130,5 @@
 However excessive and un-mindful use of `redux-thunks` may quickly lead a solution into *callback hell* and render an application completely - unmanageable.
 
 `redux-sagas` solve the -callback hell- problem of thunks. Sagas use declarative style and go beyond - components, reducers and actions. They make a complex async logic look simpler, more transactional  and make unit testing easy.
+
+#### Ambar Prajapati
