@@ -93,7 +93,6 @@
   * Returns an array of all tasks.
 
 </details>
-
 <br />
 
 #### Functional Objectives:
@@ -110,7 +109,6 @@
   * A user should be able to complete a task:
     * This should navigate a user back to the main list of tasks after completeing a task.
 * A user should be able to click on a link to be taken back to the main list of tasks from the detailed view.
-
 
 #### Technical Objectives:
 
