@@ -1,16 +1,16 @@
 # react-capabilities-few-demos
+## Demonstrating React Capabilities from Simple to Advanced
+#### by Ambar Prajapati
+
 This repository demonstrates the use of  
 1. React Components with `props` and `state` and utilize Javascript Object Array, 
 2. Use `Redux` with `React`
 3. Use `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
 
-## Demonstrating React Capabilities from Simple to Advanced
-#### by Ambar Prajapati
 
-<img src="https://github.com/DevMountain/react-assessment/blob/master/readme-assets/1-3.png" />
-
-### Demonstration App 1: Demonstrate making React Components with `props` and `state` and utilize Javascript Object Array
+### Objective Demo-1: Demonstrate making React Components with `props` and `state` and utilize Javascript Object Array
 #### Level: Simple
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image1.jpg" />
 
 In the following Demonstration, we break down the process of building a to-do list. The to-do list is capable of creating, deleting, updating and completing tasks. 
 
@@ -42,10 +42,10 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 * Conditional Classes
 
 
-### Demonstration App 2: Demonstrate using `Redux` with `React`
+### Objective Demo-2: Demonstrate using `Redux` with `React`
 #### Level: Moderate
 
-
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image2.jpg" />
 
 In the following Demonstration, we use the repository made in demo-one and modify the logic to use Redux 
 
@@ -60,6 +60,8 @@ In the following Demonstration, we use the repository made in demo-one and modif
 
 ### Demonstration App 3: Demonstrate using `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
 #### Level: Advanced
+
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image3v3.jpg" />
 
 Perform CRUD operation over http on the API given below:
 
