@@ -17,7 +17,7 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo1.jpg"/>
 
-### Functionality in detail:
+### Functional Objectives:
 
 * A user must be able to create a task.
   * A user must not be able to create a task with no title.
@@ -29,7 +29,7 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 * The `add-task` input field must clear after adding a task.
 * After adding a new task, the task must be added to the list of visible `tasks`.
 
-### Used: React and Javascript array data-structure 
+### Technical Objectives:
 
 * Created a react app from scratch using `create-react-app`.
 * Components.
@@ -47,11 +47,11 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 
 In the following Demonstration, we use the repository made in demo-one and modify the logic to use Redux 
 
-### Functionality
+### Functional Objectives:
 
 * To-do list with all functionality achieved in demo-one
 
-### React and Redux Capabilities utilized
+### Technical Objectives:
 
 * Tasks in the to-do list are now tracked using redux.
 * The action creators with redux handle Create, Complete, and Delete tasks.
@@ -96,8 +96,7 @@ Perform CRUD operation over http on the API given below:
 In this demo- utilize all functionality and properties of a task namely :  `id`, `title`, `description`, `completed`.
 
 
-
-### Functionality
+### Functional Objectives:
 
 * A user should be able to click on a task to be taken to a detailed view of that task:
   * A user should be able to modify the title of a task.
@@ -113,9 +112,9 @@ In this demo- utilize all functionality and properties of a task namely :  `id`,
 * A user should be able to click on a link to be taken back to the main list of tasks from the detailed view.
 
 
-### Capabilities utilized: `thunk` , `super-agent` , `Redux` with `React`, `Material-UI`
+### Technical Objectives:
 
-* Use Material-UI (Current Version) for user interface components
+* Use `Material-UI` (Current Version) for user interface components
 * Use the API to manage tasks.
 * Use `redux-thunk`, `Redux`, and `super-agent` to create, fetch, update, complete, and delete tasks.
 * Use `react-router-dom` to create a new route to a detailed view of a task:
