@@ -14,9 +14,9 @@ In the following Demonstration, we break down the process of building a to-do li
 A task is an object with these properties: `id`, `title`, `description`, and `completed`.
 
 The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
-<kbd>
+
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image1.jpg"/>
-</kbd>
+
 ### Functionality in detail:
 
 * A user must be able to create a task.
@@ -42,9 +42,9 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 
 
 ### Objective 2: Demonstrate using `Redux` with `React`
-<kbd>
+
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image2.jpg" />
-</kbd>
+
 In the following Demonstration, we use the repository made in demo-one and modify the logic to use Redux 
 
 ### Functionality
@@ -57,9 +57,9 @@ In the following Demonstration, we use the repository made in demo-one and modif
 * The action creators with redux handle Create, Complete, and Delete tasks.
 
 ### Objective 3: Demonstrate using `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
-<kbd>
+
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image3v3.jpg" />
-</kbd>
+
 Perform CRUD operation over http on the API given below:
 
 <details>
