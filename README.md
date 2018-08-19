@@ -6,10 +6,8 @@
 
 > In this demo, we create a single-view To-Do list app. The to-do list is capable of creating, deleting, updating and completing tasks. 
 > 
-> A task is an object with these properties: `id`, `title`, `description`, and `completed`.
+> A task in To-do list is an object with properties: `id`, `title`, `description`, and `completed`.
 > 
-> The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
-
 
 #### Functional Objectives:
 
