@@ -4,14 +4,14 @@
 ### Demo-1:
 #### Build single view app containing `nested react component hierarchy` using state, props, javascript array methods, and conditional styles
 
-> * In this demo, we create a single-view To-Do list app. The to-do list is capable of creating, deleting, updating and completing tasks. 
+> In this demo, we create a single-view To-Do list app. The to-do list is capable of creating, deleting, updating and completing tasks. 
 > 
-> * A task is an object with these properties: `id`, `title`, `description`, and `completed`.
+> A task is an object with these properties: `id`, `title`, `description`, and `completed`.
 > 
-> * The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
+> The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
 
 
-### Functional Objectives:
+#### Functional Objectives:
 
 * A user must be able to create a task.
   * A user must not be able to create a task with no title.
@@ -23,7 +23,7 @@
 * The `add-task` input field must clear after adding a task.
 * After adding a new task, the task must be added to the list of visible `tasks`.
 
-### Technical Objectives:
+#### Technical Objectives:
 
 * Create a react app from scratch using `create-react-app`.
 * Components.
@@ -41,18 +41,20 @@
 ### Demo-2: 
 #### Redux: Re-write To-Do app using `Redux : Actions, Reducers, Components and Dispatchers`
 
-<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
-
 In this demo, we use the repository made in demo-one and modify the logic to use Redux - Actions, Reducers, Components and Dispatchers
 
-### Functional Objectives:
+#### Functional Objectives:
 
 * To-do list with all functionality achieved in demo-one
 
-### Technical Objectives:
+#### Technical Objectives:
 
 * Tasks in the to-do list are now tracked using `redux`.
 * The action creators with redux handle Create, Complete, and Delete tasks.
+
+<kbd>
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
+</kbd>
 
 #### Demo-3: `Asynchronous thunks with API`: Re-write To-Do app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
 
@@ -92,7 +94,7 @@ Perform CRUD operation over http on the API given below:
 In this demo- use all functionality and properties of a task namely :  `id`, `title`, `description`, `completed`.
 
 
-### Functional Objectives:
+#### Functional Objectives:
 
 * A user should be able to click on a task to be taken to a detailed view of that task:
   * A user should be able to modify the title of a task.
@@ -108,7 +110,7 @@ In this demo- use all functionality and properties of a task namely :  `id`, `ti
 * A user should be able to click on a link to be taken back to the main list of tasks from the detailed view.
 
 
-### Technical Objectives:
+#### Technical Objectives:
 
 * Use `Material-UI` (Current Version) for user interface components
 * Use the API to manage tasks.
