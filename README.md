@@ -1,6 +1,6 @@
 # react-capabilities-few-demos
 #### by Ambar Prajapati
-
+[Note: Current css shall be replaced with a better one soon.]
 ### Demo-1:
 #### Build single view app containing `nested react component hierarchy` using state, props, javascript array methods, and conditional styles
 
