@@ -1,7 +1,7 @@
 # react-capabilities-few-demos
 #### by Ambar Prajapati
 
-### Demo-1: Demonstrate making React Components with `props` and `state` and utilize Javascript Object Array
+### Demo-1: To-Do React-app: Build single view app containing nested component hierarchy using state, props, javascript array methods, conditional styles
 
 In the following Demonstration, we break down the process of building a to-do list. The to-do list is capable of creating, deleting, updating and completing tasks. 
 
@@ -36,7 +36,7 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo1.jpg"/>
 </kbd>
 
-### Demo-2: Demonstrate using `Redux` with `React`
+### Demo-2: Redux: Re-implement To-Do React app utilizing Redux : Actions, Reducers, Components and Dispatchers
 
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
 
@@ -51,9 +51,7 @@ In the following Demonstration, we use the repository made in demo-one and modif
 * Tasks in the to-do list are now tracked using redux.
 * The action creators with redux handle Create, Complete, and Delete tasks.
 
-### Demo-3: Demonstrate using `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
-
-<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo3.jpg" />
+### Demo-3: Asynchronous thunks with API: Re-implement To-Do React app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
 
 Perform CRUD operation over http on the API given below:
 
@@ -115,3 +113,5 @@ In this demo- utilize all functionality and properties of a task namely :  `id`,
 * Use `react-router-dom` to create a new route to a detailed view of a task:
   * This route should use route parameters to know which task it is working with.
   * This route should be able to handle refreshing ( data should not be lost on refresh ).
+  
+  <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo3.jpg" />
