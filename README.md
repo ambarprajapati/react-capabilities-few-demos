@@ -15,7 +15,7 @@ A task is an object with these properties: `id`, `title`, `description`, and `co
 
 The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
 
-<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image1.jpg"/>
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo1.jpg"/>
 
 ### Functionality in detail:
 
@@ -43,7 +43,7 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 
 ### Objective 2: Demonstrate using `Redux` with `React`
 
-<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image2.jpg" />
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
 
 In the following Demonstration, we use the repository made in demo-one and modify the logic to use Redux 
 
@@ -58,7 +58,7 @@ In the following Demonstration, we use the repository made in demo-one and modif
 
 ### Objective 3: Demonstrate using `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
 
-<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image3v3.jpg" />
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo3.jpg" />
 
 Perform CRUD operation over http on the API given below:
 
