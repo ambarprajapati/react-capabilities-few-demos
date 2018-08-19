@@ -1,7 +1,8 @@
 # react-capabilities-few-demos
 #### by Ambar Prajapati
 
-### Demo-1: To-Do React-app: Build single view app containing nested component hierarchy using state, props, javascript array methods, conditional styles
+### Demo-1: 
+### To-Do React-app: Build single view app containing nested react component hierarchy using state, props, javascript array methods, and conditional styles
 
 In the following Demonstration, we break down the process of building a to-do list. The to-do list is capable of creating, deleting, updating and completing tasks. 
 
@@ -36,7 +37,8 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo1.jpg"/>
 </kbd>
 
-### Demo-2: Redux: Re-implement To-Do React app utilizing Redux : Actions, Reducers, Components and Dispatchers
+### Demo-2: 
+### Redux: Re-implement To-Do React app utilizing Redux : Actions, Reducers, Components and Dispatchers
 
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
 
