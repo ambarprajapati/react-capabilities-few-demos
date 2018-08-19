@@ -1,5 +1,5 @@
 # react-capabilities-few-demos
-## Demonstrating React Capabilities from Simple to Advanced
+## Demonstrating React Capabilities
 #### by Ambar Prajapati
 
 This repository demonstrates the use of  
@@ -58,7 +58,7 @@ In the following Demonstration, we use the repository made in demo-one and modif
 * Tasks in the to-do list are now tracked using redux.
 * The action creators with redux handle Create, Complete, and Delete tasks.
 
-### Demonstration App 3: Demonstrate using `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
+### Objective Demo-3: Demonstrate using `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
 #### Level: Advanced
 
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image3v3.jpg" />
