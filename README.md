@@ -1,13 +1,7 @@
 # react-capabilities-few-demos
-### by Ambar Prajapati
+#### by Ambar Prajapati
 
-This repository demonstrates the use of  
-1. React Components with `props` and `state` and utilize Javascript Object Array, 
-2. Use `Redux` with `React`
-3. Use `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
-
-
-### Objective 1: Demonstrate making React Components with `props` and `state` and utilize Javascript Object Array
+### Demo-1: Demonstrate making React Components with `props` and `state` and utilize Javascript Object Array
 
 In the following Demonstration, we break down the process of building a to-do list. The to-do list is capable of creating, deleting, updating and completing tasks. 
 
@@ -41,7 +35,7 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 * Conditional Classes
 
 
-### Objective 2: Demonstrate using `Redux` with `React`
+### Demo-2: Demonstrate using `Redux` with `React`
 
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
 
@@ -56,7 +50,7 @@ In the following Demonstration, we use the repository made in demo-one and modif
 * Tasks in the to-do list are now tracked using redux.
 * The action creators with redux handle Create, Complete, and Delete tasks.
 
-### Objective 3: Demonstrate using `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
+### Demo-3: Demonstrate using `thunk` , `super-agent` to access asynchronous logic in `Redux` and `React`
 
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo3.jpg" />
 
