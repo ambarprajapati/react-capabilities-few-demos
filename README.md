@@ -9,13 +9,13 @@ This repository demonstrates the use of
 
 ### Objective 1: Demonstrate making React Components with `props` and `state` and utilize Javascript Object Array
 
-<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image1.jpg" />
-
 In the following Demonstration, we break down the process of building a to-do list. The to-do list is capable of creating, deleting, updating and completing tasks. 
 
 A task is an object with these properties: `id`, `title`, `description`, and `completed`.
 
 The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
+
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/image1.jpg" />
 
 ### Functionality in detail:
 
