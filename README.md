@@ -9,8 +9,6 @@ A task is an object with these properties: `id`, `title`, `description`, and `co
 
 The to-do list is created  using `create-react-app` and accomplishes functionlity as described below. All the functionality is available to the user on the same view.
 
-<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo1.jpg"/>
-
 ### Functional Objectives:
 
 * A user must be able to create a task.
@@ -34,6 +32,9 @@ The to-do list is created  using `create-react-app` and accomplishes functionlit
 * In-line styles ( at least 1 )
 * Conditional Classes
 
+<kbd>
+<img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo1.jpg"/>
+</kbd>
 
 ### Demo-2: Demonstrate using `Redux` with `React`
 
