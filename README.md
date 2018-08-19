@@ -34,6 +34,7 @@
 * In-line styles ( at least 1 )
 * Conditional Classes
 
+#### Screenshot:
 <kbd>
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo1.jpg"/>
 </kbd>
@@ -52,6 +53,7 @@ In this demo, we use the repository made in demo-one and modify the logic to use
 * Tasks in the to-do list are now tracked using `redux`.
 * The action creators with redux handle Create, Complete, and Delete tasks.
 
+#### Screenshot:
 <kbd>
 <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo2.jpg" />
 </kbd>
@@ -118,5 +120,6 @@ In this demo- use all functionality and properties of a task namely :  `id`, `ti
 * Use `react-router-dom` to create a new route to a detailed view of a task:
   * This route should use route parameters to know which task it is working with.
   * This route should be able to handle refreshing ( data should not be lost on refresh ).
-  
+
+#### Screenshot:  
   <img src="https://github.com/ambarprajapati/react-capabilities-few-demos/blob/master/todo3.jpg" />
