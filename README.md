@@ -42,7 +42,7 @@
 ### Demo-2: 
 #### Redux: Re-write To-Do app using `Redux : Actions, Reducers, Components and Dispatchers`
 
-In this demo, we use the repository made in demo-one and modify the logic to use Redux - Actions, Reducers, Components and Dispatchers
+> In this demo, we use the repository made in demo-one and modify the logic to use Redux - Actions, Reducers, Components and Dispatchers
 
 #### Functional Objectives:
 
@@ -60,7 +60,9 @@ In this demo, we use the repository made in demo-one and modify the logic to use
 
 #### Demo-3: `Asynchronous thunks with API`: Re-write To-Do app to access API using `thunk` , `super-agent` for asynchronous logic in `Redux` and `React`
 
-Perform CRUD operation over http on the API given below:
+> Handle asynchronous logic. Expand Single-View using react-route. Use redux for handling API-store
+> In this demo- use all functionality and properties of a task namely :  `id`, `title`, `description`, `completed`.
+> Perform CRUD operation over http on the API given below:
 
 <details>
 
@@ -92,9 +94,6 @@ Perform CRUD operation over http on the API given below:
 </details>
 
 <br />
-
-In this demo- use all functionality and properties of a task namely :  `id`, `title`, `description`, `completed`.
-
 
 #### Functional Objectives:
 
